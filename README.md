@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/batt.png" alt="Battery Report" width="100%">
+</p>
+
 # Battery and System Info (XP–11 Compatible)
 
 A lightweight `.bat` script that provides battery status, system details, and basic disk information using **only native CMD tools**, fully compatible with **Windows XP through Windows 11**.
