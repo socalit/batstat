@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/batt_report1.png" alt="Battery Report" width="30%">
+  <img src="assets/batt_report1.png" alt="Battery Report" width="50%">
 </p>
 <p align="center">
-  <img src="assets/batt_report2.png" alt="Battery Report" width="30%">
+  <img src="assets/batt_report2.png" alt="Battery Report" width="50%">
 </p>
 
 # Battery and System Info (XP–11 Compatible)
