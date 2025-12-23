@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/banner.png" alt="batstat" width="100%">
+</p>
+
+<p align="center">
   <img src="assets/batt_report1.png" alt="Battery Report" width="50%">
 </p>
 <p align="center">
