@@ -2,6 +2,8 @@
   <img src="assets/banner.png" alt="batstat" width="100%">
 </p>
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+
 <p align="center">
   <img src="assets/batt_report1.png" alt="Battery Report" width="50%">
 </p>
@@ -71,6 +73,12 @@ This project is provided under the [MIT License](LICENSE).
 
 ---
 
-## Contributions
+## Support
 
-Feel free to submit improvements or compatibility fixes via pull request!
+### ⭐ **Star the GitHub repo**  
+### Share it with communities  
+### Open issues or request features  
+
+If this project saved you time or solved a problem, consider supporting development:
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=socal370xs&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/socal370xs)
