@@ -1,8 +1,12 @@
-<p align="center">
-  <img src="assets/banner.png" alt="batstat" width="100%">
-</p>
+![batstat](assets/banner.png)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+[![Windows](https://img.shields.io/badge/Windows-XP→11-blue?logo=windows)](https://www.microsoft.com/windows)
+[![CMD](https://img.shields.io/badge/CMD-Batch_Script-black)](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)
+[![Battery](https://img.shields.io/badge/Battery-Diagnostics-green)](#)
+[![No PowerShell](https://img.shields.io/badge/PowerShell-NOT_required-lightgrey)](#)
+[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
+
 
 <p align="center">
   <img src="assets/batt_report1.png" alt="Battery Report" width="50%">
